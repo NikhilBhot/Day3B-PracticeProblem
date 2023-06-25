@@ -6,6 +6,9 @@
         {
             Console.WriteLine("Type Of Constructor");
             TypeOfConstrcutorExample.DemoMethod();
+            Console.WriteLine("________________________");
+            Console.WriteLine("Interface");
+            InterfaceExample.InterfaceClassDemoMethod();
         }
     }
 }
